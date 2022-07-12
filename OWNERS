@@ -5,6 +5,7 @@ approvers:
   - kikisdeliveryservice
   - sinnykumari
   - yuqi-zhang
+  - fortinj66
 reviewers:
   - cgwalters
   - kikisdeliveryservice
@@ -13,5 +14,6 @@ reviewers:
   - cheesesashimi
   - jkyros
   - raisaat
+  - fortinj66
 
 component: "Machine Config Operator"
